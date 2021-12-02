@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(376,5): warning MSB8004: Intermediate 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Intermediate 目錄。
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(377,5): warning MSB8004: Output 目錄結尾不是結尾斜線。這個建置執行個體將會加入此斜線，因為這樣才能正確評估 Output 目錄。
+  Main.c
+c:\users\李翌維\onedrive\高階程式語言\110360239_李翌維_hw5\6.19\source\main.c(11): warning C4244: '函式': 將 'time_t' 轉換為 'unsigned int'，由於類型不同，可能導致資料遺失
+c:\users\李翌維\onedrive\高階程式語言\110360239_李翌維_hw5\6.19\source\main.c(35): warning C4566: 由通用字元名稱 '\u00AD' 表示的字元，無法在目前的字碼頁中表示 (950)
+c:\users\李翌維\onedrive\高階程式語言\110360239_李翌維_hw5\6.19\source\main.c(51): warning C4244: '函式': 將 'float' 轉換為 'int'，由於類型不同，可能導致資料遺失
+  6.19.vcxproj -> C:\Users\李翌維\OneDrive\高階程式語言\110360239_李翌維_hw5\6.19\6.19\6.19\..\..\temp\debug\6.19.exe
